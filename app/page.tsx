@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import { FaFacebookMessenger, FaInstagram, FaWhatsapp } from "react-icons/fa";
-import { SiMeta, SiTelegram } from "react-icons/si";
+import { SiMeta } from "react-icons/si";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
